@@ -1,0 +1,2 @@
+../Src/switch.c:3:6:SwitchInit	4	static
+../Src/switch.c:11:5:SwitchIsPressed	16	static
